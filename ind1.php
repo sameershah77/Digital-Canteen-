@@ -396,7 +396,6 @@ align-items: center;
         color: rgb(0, 0, 0);
         font-size: 1.7vh;
         text-align: left;
-        padding: 10px 4px;
         text-decoration: none;
         display: block;
       }
